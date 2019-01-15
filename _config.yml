@@ -1,6 +1,6 @@
 # Site settings
-title: Another Blog
-url: "http://DZH0u.github.io"    # the protocol and hostname of your site, eg. `http://laobubu.github.io`
+title: DZH0u Blog
+url: "https://github.com/DZH0u/DZH0u.github.io"    # the protocol and hostname of your site, eg. `http://laobubu.github.io`
 baseurl: "/DZH0u/DZH0u.github.io" # the prefix of your site uri, eg. `"/jekyll-theme-EasyBook"` or empty string `""`
 #timezone: Asia/Chongqing
 description: >
